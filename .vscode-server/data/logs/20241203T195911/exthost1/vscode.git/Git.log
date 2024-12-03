@@ -1,0 +1,152 @@
+2024-12-03 19:59:14.216 [info] [main] Log level: Info
+2024-12-03 19:59:14.216 [info] [main] Validating found git in: "git"
+2024-12-03 19:59:14.216 [info] [main] Using git "2.34.1" from "git"
+2024-12-03 19:59:14.216 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-03 19:59:14.216 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-03 19:59:14.225 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-12-03 19:59:14.245 [info] [Model][openRepository] Opened repository: /root
+2024-12-03 19:59:14.259 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-03 19:59:14.260 [info] > git config --get commit.template [7ms]
+2024-12-03 19:59:14.267 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:14.271 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-03 19:59:14.275 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-12-03 19:59:14.275 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:14.288 [info] > git rev-parse --show-toplevel [14ms]
+2024-12-03 19:59:14.292 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-12-03 19:59:14.294 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-03 19:59:14.300 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-03 19:59:14.306 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-12-03 19:59:14.310 [info] [Model][openRepository] Opened repository: /root/.nvm
+2024-12-03 19:59:14.320 [info] > git config --get commit.template [5ms]
+2024-12-03 19:59:14.321 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-03 19:59:14.331 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2024-12-03 19:59:14.340 [info] > git rev-parse --show-toplevel [12ms]
+2024-12-03 19:59:14.345 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2024-12-03 19:59:14.346 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-03 19:59:14.349 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-03 19:59:14.357 [info] > git status -z -uall [77ms]
+2024-12-03 19:59:14.447 [info] > git status -z -uall [112ms]
+2024-12-03 19:59:14.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-12-03 19:59:14.447 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:14.447 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2024-12-03 19:59:14.467 [info] > git config --get commit.template [21ms]
+2024-12-03 19:59:14.468 [info] > git config --get commit.template [2ms]
+2024-12-03 19:59:14.471 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:14.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-12-03 19:59:14.476 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:14.772 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [289ms]
+2024-12-03 19:59:14.773 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [300ms]
+2024-12-03 19:59:14.806 [info] > git status -z -uall [327ms]
+2024-12-03 19:59:14.806 [info] > git status -z -uall [31ms]
+2024-12-03 19:59:14.806 [info] > git check-ignore -v -z --stdin [6ms]
+2024-12-03 19:59:14.807 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2024-12-03 19:59:14.854 [info] > git show --textconv :pbo/12_C_12550_PAGI.js [4ms]
+2024-12-03 19:59:14.855 [info] > git ls-files --stage -- /root/pbo/12_C_12550_PAGI.js [2ms]
+2024-12-03 19:59:18.261 [info] > git show --textconv :pbo/prktm6.js [5ms]
+2024-12-03 19:59:18.262 [info] > git ls-files --stage -- /root/pbo/prktm6.js [2ms]
+2024-12-03 19:59:19.185 [info] > git show --textconv :pbo/12_C_12550_PAGI.js [5ms]
+2024-12-03 19:59:19.187 [info] > git ls-files --stage -- /root/pbo/12_C_12550_PAGI.js [2ms]
+2024-12-03 19:59:20.249 [info] > git config --get commit.template [1ms]
+2024-12-03 19:59:20.254 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:20.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 19:59:20.255 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:20.264 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 19:59:20.285 [info] > git status -z -uall [27ms]
+2024-12-03 19:59:21.697 [info] > git show --textconv :pbo/12_C_12550_SORE.js [4ms]
+2024-12-03 19:59:21.698 [info] > git ls-files --stage -- /root/pbo/12_C_12550_SORE.js [2ms]
+2024-12-03 19:59:23.838 [info] > git show --textconv :pbo/12_C_12550_PAGI.js [6ms]
+2024-12-03 19:59:23.840 [info] > git ls-files --stage -- /root/pbo/12_C_12550_PAGI.js [3ms]
+2024-12-03 19:59:25.336 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:25.338 [info] > git config --get commit.template [5ms]
+2024-12-03 19:59:25.338 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 19:59:25.338 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:25.347 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-03 19:59:25.365 [info] > git status -z -uall [24ms]
+2024-12-03 19:59:30.401 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:30.401 [info] > git config --get commit.template [5ms]
+2024-12-03 19:59:30.402 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 19:59:30.402 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:30.411 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 19:59:30.428 [info] > git status -z -uall [22ms]
+2024-12-03 19:59:35.478 [info] > git config --get commit.template [6ms]
+2024-12-03 19:59:35.478 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:35.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-12-03 19:59:35.483 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:35.491 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-03 19:59:35.512 [info] > git status -z -uall [25ms]
+2024-12-03 19:59:40.546 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:40.547 [info] > git config --get commit.template [5ms]
+2024-12-03 19:59:40.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-12-03 19:59:40.547 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:40.556 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-03 19:59:40.573 [info] > git status -z -uall [23ms]
+2024-12-03 19:59:40.954 [info] > git ls-files --stage -- /root/pbo/12_C_12550_PAGI.js [1ms]
+2024-12-03 19:59:40.964 [info] > git show --textconv :pbo/12_C_12550_PAGI.js [2ms]
+2024-12-03 19:59:48.173 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 19:59:48.175 [info] > git config --get commit.template [11ms]
+2024-12-03 19:59:48.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-12-03 19:59:48.176 [warning] [Git][getBranch] No such branch: master
+2024-12-03 19:59:48.191 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-03 19:59:48.212 [info] > git status -z -uall [30ms]
+2024-12-03 20:00:12.314 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 20:00:12.319 [info] > git config --get commit.template [12ms]
+2024-12-03 20:00:12.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-12-03 20:00:12.321 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:00:12.338 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:00:12.372 [info] > git status -z -uall [43ms]
+2024-12-03 20:00:29.316 [info] > git config --get commit.template [5ms]
+2024-12-03 20:00:29.322 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 20:00:29.324 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 20:00:29.324 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:00:29.344 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:00:29.370 [info] > git status -z -uall [37ms]
+2024-12-03 20:00:34.428 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 20:00:34.429 [info] > git config --get commit.template [5ms]
+2024-12-03 20:00:34.429 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 20:00:34.429 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:00:34.438 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:00:34.456 [info] > git status -z -uall [23ms]
+2024-12-03 20:00:40.372 [info] > git config --get commit.template [5ms]
+2024-12-03 20:00:40.379 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 20:00:40.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-12-03 20:00:40.382 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:00:40.396 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-03 20:00:40.425 [info] > git status -z -uall [38ms]
+2024-12-03 20:00:56.266 [info] > git config --get commit.template [1ms]
+2024-12-03 20:00:56.272 [info] [Git][getRemotes] No remotes found in the git config file
+2024-12-03 20:00:56.280 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-12-03 20:00:56.280 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:00:56.301 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-03 20:00:56.324 [info] > git status -z -uall [36ms]
+2024-12-03 20:00:59.529 [info] > git ls-files --stage -- /root/pbo/12_C_12550_PAGI.js [2ms]
+2024-12-03 20:00:59.538 [info] > git show --textconv :pbo/12_C_12550_PAGI.js [2ms]
+2024-12-03 20:01:07.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-12-03 20:01:07.764 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:07.764 [info] > git config --get commit.template [22ms]
+2024-12-03 20:01:07.785 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:01:07.808 [info] > git status -z -uall [36ms]
+2024-12-03 20:01:12.850 [info] > git config --get commit.template [1ms]
+2024-12-03 20:01:12.855 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-12-03 20:01:12.855 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:12.863 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:01:12.881 [info] > git status -z -uall [23ms]
+2024-12-03 20:01:19.210 [info] > git config --get commit.template [2ms]
+2024-12-03 20:01:19.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-12-03 20:01:19.217 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:19.232 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-12-03 20:01:19.253 [info] > git status -z -uall [32ms]
+2024-12-03 20:01:24.284 [info] > git config --get commit.template [2ms]
+2024-12-03 20:01:24.289 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 20:01:24.289 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:24.297 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2024-12-03 20:01:24.317 [info] > git status -z -uall [25ms]
+2024-12-03 20:01:29.346 [info] > git config --get commit.template [2ms]
+2024-12-03 20:01:29.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 20:01:29.365 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:29.380 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-12-03 20:01:29.404 [info] > git status -z -uall [33ms]
+2024-12-03 20:01:34.437 [info] > git config --get commit.template [5ms]
+2024-12-03 20:01:34.438 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-12-03 20:01:34.438 [warning] [Git][getBranch] No such branch: master
+2024-12-03 20:01:34.447 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-12-03 20:01:34.466 [info] > git status -z -uall [25ms]

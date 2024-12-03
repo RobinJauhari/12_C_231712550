@@ -1,0 +1,3 @@
+class Dokter {
+    constructor(nama, )
+}

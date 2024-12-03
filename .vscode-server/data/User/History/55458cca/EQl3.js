@@ -1,0 +1,3 @@
+class MathHelper {
+    static multiply()
+}

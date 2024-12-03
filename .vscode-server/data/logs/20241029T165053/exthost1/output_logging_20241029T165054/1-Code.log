@@ -1,0 +1,127 @@
+[Running] node "/root/pbo/gd08.js"
+Mobil ini bergerak dengan kecepatan maksimal 360km/h
+Motor memang hanya dapat melaju 100km/h, namun bisa meliuk
+Pesawatlah yang tercepat, dapat melaju hingga 500km/h
+Kendaraan bergerak dengan sangat cepat.
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd08.js"
+Mobil ini bergerak dengan kecepatan maksimal 360km/h
+Motor memang hanya dapat melaju 100km/h, namun bisa meliuk
+Pesawatlah yang tercepat, dapat melaju hingga 500km/h
+Kendaraan bergerak dengan sangat cepat.
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Ibu sedang menjahit.
+
+[Done] exited with code=0 in 0.18 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Ibu sedang menjahit.
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/gd08.js"
+/root/pbo/gd08.js:47
+ujiKecepatan(mobil);
+^
+
+ReferenceError: ujiKecepatan is not defined
+    at Object.<anonymous> (/root/pbo/gd08.js:47:1)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.174 seconds
+
+[Running] node "/root/pbo/gd08.js"
+Mobil Toyota Camry dengan 4 pintu
+Motor Yamaha R15 tipe Sport.
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd08.js"
+Mobil Robin_2550 Camry dengan 4 pintu
+Motor Robin_2550 R15 tipe Sport.
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/robin.js"
+number
+string
+
+[Done] exited with code=0 in 0.171 seconds
+
+[Running] node "/root/pbo/gd08.js"
+Anjing menggonggong: Woof woof!
+Hewan ini berlari dengan kecepatan 20 km/jam
+Kucing mengiau: Meow meow!
+Hewan ini berlari dengan kecepatan 15 km/jam
+Burung berkicau: Tweet tweet!
+Hewan ini berlari dengan kecepatan 100 km/jam
+
+[Done] exited with code=0 in 0.175 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Ibu sedang menjahit.
+
+[Done] exited with code=0 in 0.181 seconds
+
+[Running] node "/root/robin.js"
+/root/robin.js:22
+    } if {
+         ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.033 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Ibu sedang menjahit.
+Ibu sedang memasak spaghetti Aglio e Olio.
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Ibu sedang menjahit.
+
+[Done] exited with code=0 in 0.178 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Perilaku tidak dikenali.
+Ibu sedang menjahit.
+Ibu sedang memasak spaghetti Aglio e Olio.
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/robin.js"
+Ayah sedang bekerja di kantor.
+Perilaku tidak dikenali.
+Ibu sedang menjahit.
+Ibu sedang memasak spaghetti Aglio e Olio.
+
+[Done] exited with code=0 in 0.032 seconds
+

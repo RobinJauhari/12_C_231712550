@@ -1,0 +1,376 @@
+[Running] node "/root/pbo/gd_5.js"
+Kucing ini mengeong.
+Kucing ini berjalan.
+Ini adalah hewan.
+Anjing ini menggonggong.
+/root/pbo/gd_5.js:17
+        throw new Error(
+        ^
+
+Error: Metode abstrak 'berjalan' harus diimplementasikan oleh kelas turunan.
+    at Anjing.berjalan (/root/pbo/gd_5.js:17:15)
+    at Object.<anonymous> (/root/pbo/gd_5.js:50:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.203 seconds
+
+[Running] node "/root/pbo/gd_5.js"
+Kucing ini mengeong.
+Kucing ini berjalan.
+Ini adalah hewan.
+Anjing ini menggonggong.
+/root/pbo/gd_5.js:17
+        throw new Error(
+        ^
+
+Error: Metode abstrak 'berjalan' harus diimplementasikan oleh kelas turunan.
+    at Anjing.berjalan (/root/pbo/gd_5.js:17:15)
+    at Object.<anonymous> (/root/pbo/gd_5.js:50:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.043 seconds
+
+[Running] node "/root/pbo/gd_5.js"
+Kucing ini mengeong.
+Kucing ini berjalan.
+Ini adalah hewan.
+Anjing ini menggonggong.
+Anjing ini berjalan.
+Ini adalah hewan.
+
+[Done] exited with code=0 in 0.044 seconds
+
+[Running] node "/root/pbo/gd_5.js"
+Kucing ini mengeong.
+Kucing ini berjalan.
+Ini adalah hewan.
+Anjing ini menggonggong.
+Anjing ini berjalan.
+Ini adalah hewan.
+
+[Done] exited with code=0 in 0.047 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+/root/pbo/gd5_2.js:28
+        super();
+        ^^^^^
+
+SyntaxError: 'super' keyword unexpected here
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.196 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+/root/pbo/gd5_2.js:28
+        super();
+        ^^^^^
+
+SyntaxError: 'super' keyword unexpected here
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.042 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+/root/pbo/gd5_2.js:28
+        super();
+        ^^^^^
+
+SyntaxError: 'super' keyword unexpected here
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.033 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.197 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.041 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.206 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.049 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.039 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.224 seconds
+
+[Running] node "/root/pbo/gd5_2.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.197 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+/root/pbo/gd5_3.js:2
+    class extends Base {
+    ^
+
+ReferenceError: Base is not defined
+    at IHitunganLuas (/root/pbo/gd5_3.js:2:5)
+    at Object.<anonymous> (/root/pbo/gd5_3.js:19:39)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.042 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.223 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.215 seconds
+
+[Running] node "/root/pbo/gd5_3.js"
+Luas Persegi: 25
+Keliling Persegi: 20
+Luas Persegi Panjang: 6502500
+Keliling Persegi Panjang: 13005000
+
+[Done] exited with code=0 in 0.046 seconds
+
+[Running] node "/root/pbo/prktm5.js"
+
+==============================
+	Informasi Karyawan
+Nama: Nama_Mahasiswa
+Jabatan: undefined
+Pendapatan: 91000000
+===============================
+===============================
+	Informasi Karyawan
+Nama: Nama_Teman
+Jabatan: undefined
+Pendapatan: 60500000
+===============================
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/prktm5.js"
+
+==============================
+	Informasi Karyawan
+Nama: Nama_Mahasiswa
+Jabatan: undefined
+Pendapatan: 91000000
+===============================
+===============================
+	Informasi Karyawan
+Nama: Nama_Teman
+Jabatan: undefined
+Pendapatan: 60500000
+===============================
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/prktm5.js"
+
+==============================
+	Informasi Karyawan
+Nama: Nama_Mahasiswa
+Jabatan: undefined
+Pendapatan: 91000000
+===============================
+===============================
+	Informasi Karyawan
+Nama: Nama_Teman
+Jabatan: undefined
+Pendapatan: 60500000
+===============================
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/prktm5.js"
+
+==============================
+	Informasi Karyawan
+Nama: Robin
+Jabatan: 3000000
+Pendapatan: NaN
+===============================
+===============================
+	Informasi Karyawan
+Nama: Lil Uzi
+Jabatan: 2000000
+Pendapatan: NaN
+===============================
+
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] node "/root/pbo/prktm5.js"
+
+==============================
+	Informasi Karyawan
+Nama: Robin
+Jabatan: Manager
+Pendapatan: 91000000
+===============================
+===============================
+	Informasi Karyawan
+Nama: Lil Uzi
+Jabatan: Staff
+Pendapatan: 60500000
+===============================
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/intrfc.js"
+Nama Produk: Laptop
+Harga Pokok: Rp15000000
+Diskon: Rp1500000
+Harga Setelah Diskon: Rp13500000
+PPN: Rpundefined
+Harga Jual Akhir: Rp15150000
+=============================
+Nama Produk: Smartphone
+Harga Pokok: Rp5000000
+Diskon: Rp500000
+Harga Setelah Diskon: Rp4500000
+PPN: Rpundefined
+Harga Jual Akhir: Rp5050000
+=============================
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/intrfc.js"
+Nama Produk: Laptop
+Harga Pokok: Rp15000000
+Diskon: Rp1500000
+Harga Setelah Diskon: Rp13500000
+PPN: Rp1650000
+Harga Jual Akhir: Rp15150000
+=============================
+Nama Produk: Smartphone
+Harga Pokok: Rp5000000
+Diskon: Rp500000
+Harga Setelah Diskon: Rp4500000
+PPN: Rp550000
+Harga Jual Akhir: Rp5050000
+=============================
+
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] node "/root/pbo/intrfc.js"
+Nama Produk: Laptop
+Harga Pokok: Rp15000000
+Diskon: Rp1500000
+Harga Setelah Diskon: Rp13500000
+PPN: Rp1650000
+Harga Jual Akhir: Rp15150000
+=============================
+Nama Produk: Smartphone
+Harga Pokok: Rp5000000
+Diskon: Rp500000
+Harga Setelah Diskon: Rp4500000
+PPN: Rp550000
+Harga Jual Akhir: Rp5050000
+=============================
+
+[Done] exited with code=0 in 0.031 seconds
+

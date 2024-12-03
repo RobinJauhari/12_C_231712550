@@ -1,0 +1,810 @@
+[Running] node "/root/pbo/gd12.js"
+An error occurred: Invalid input for division
+
+[Done] exited with code=0 in 0.181 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: divide is not defined
+
+[Done] exited with code=0 in 0.182 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: divide is not defined
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid Data
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid Data
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid Data
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd12.js"
+An error occurred: Property "nama" not found
+
+[Done] exited with code=0 in 0.182 seconds
+
+[Running] node "/root/pbo/gd12.js"
+An error occurred: Property "nama" not found
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd12.js"
+Nama: John
+
+[Done] exited with code=0 in 0.186 seconds
+
+[Running] node "/root/pbo/gd12.js"
+Nama: John
+An error occurred: Data retrieval failed
+
+[Done] exited with code=0 in 1.033 seconds
+
+[Running] node "/root/pbo/gd12.js"
+Nama: John
+An error occurred: 
+
+[Done] exited with code=0 in 1.189 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid Data
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid Data
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd12.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Berren has been successfully registered.
+Student Kay has been successfully registered.
+
+[Done] exited with code=0 in 1.184 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+/root/pbo/Posttest13.js:18
+    const validationMessage = validateData(studentData);
+                              ^
+
+ReferenceError: validateData is not defined
+    at processData (/root/pbo/Posttest13.js:18:31)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:545:9)
+    at process.processTimers (node:internal/timers:519:7)
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 1.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+
+[Done] exited with code=0 in 1.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+An error occurred: Invalid data
+
+[Done] exited with code=0 in 1.028 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.029 seconds
+
+[Running] node "/root/pbo/gd12.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Berren has been successfully registered.
+Student Kay has been successfully registered.
+
+[Done] exited with code=0 in 1.031 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.029 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.03 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.028 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.031 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+An error occurred: Invalid KTP number
+An error occurred: Invalid KTP number
+
+[Done] exited with code=0 in 1.03 seconds
+
+[Running] node "/root/pbo/Posttest13.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+Student Kay has been successfully registered.
+
+[Done] exited with code=0 in 1.031 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+Transaction successful. Change to return: 10000
+Transaction process ended.
+Amount given is less than the total price
+Both total price and amount given must be numbers
+Transaction process ended.
+Transaction process ended.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Amount given is less than the total price
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.175 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Cleaning up resources...
+Both total price and amount given must be numbers
+Amount given is less than the total price
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.175 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Both total price and amount given must be numbers
+Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Amount given is less than the total price
+Transaction process ended.
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Amount given is less than the total price
+Transaction process ended.
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Amount given is less than the total price
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.179 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Cleaning up resources...
+/root/pbo/12_C_12550_SORE.js:16
+    } catch (error) {r
+                     ^
+
+ReferenceError: r is not defined
+    at processPayment (/root/pbo/12_C_12550_SORE.js:16:22)
+    at /root/pbo/12_C_12550_SORE.js:31:5
+    at Array.forEach (<anonymous>)
+    at Object.<anonymous> (/root/pbo/12_C_12550_SORE.js:29:11)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.033 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+__________________________________________________
+[3]
+Amount given is less than the total price
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.178 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+Error: Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+__________________________________________________
+[3]
+Both total price and amount given must be numbers
+Amount given is less than the total price
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+Both total price and amount given must be numbers
+Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.034 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Amount given is less than the total price
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Both total price and amount given must be numbers
+Transaction process ended.
+__________________________________________________
+[2]
+Transaction process ended.
+Amount given is less than the total price
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Transaction process ended.
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[2]
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 125
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 125
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 125
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 125
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 125
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/12_C_12550_SORE.js"
+[BARATIE RESTAURANT]
+__________________________________________________
+[1]
+Error: Both total price and amount given must be numbers
+Cleaning up resources...
+__________________________________________________
+[2]
+Error: Amount given is less than the total price
+Cleaning up resources...
+__________________________________________________
+[3]
+Transaction successful. Change to return: 500
+Cleaning up resources...
+__________________________________________________
+
+[Done] exited with code=0 in 0.046 seconds
+

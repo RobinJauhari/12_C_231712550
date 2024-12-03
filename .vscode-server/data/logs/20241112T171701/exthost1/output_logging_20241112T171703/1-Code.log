@@ -1,0 +1,381 @@
+[Running] node "/root/pbo/Posttest9.js"
+SRP1_C_12550
+Mencetak label pengiriman
+            Berat 10 kg
+            Jarak 10 km
+            Harga Rp.150000
+Menyimpan paket dengan id C_12550 ke dalam database pengiriman...
+
+[Done] exited with code=0 in 0.219 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+SRP2_C_12550
+/root/pbo/Posttest9.js:16
+        const cost = this.calculate();
+                          ^
+
+TypeError: this.calculate is not a function
+    at PackageDeliveryPrinter.print (/root/pbo/Posttest9.js:16:27)
+    at Object.<anonymous> (/root/pbo/Posttest9.js:36:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.216 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+SRP2_C_12550
+/root/pbo/Posttest9.js:16
+        const cost = item.calculate();
+                          ^
+
+TypeError: Cannot read properties of undefined (reading 'calculate')
+    at PackageDeliveryPrinter.print (/root/pbo/Posttest9.js:16:27)
+    at Object.<anonymous> (/root/pbo/Posttest9.js:36:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.039 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+SRP2_C_12550
+/root/pbo/Posttest9.js:16
+        const cost = item.calculate();
+                          ^
+
+TypeError: Cannot read properties of undefined (reading 'calculate')
+    at PackageDeliveryPrinter.print (/root/pbo/Posttest9.js:16:27)
+    at Object.<anonymous> (/root/pbo/Posttest9.js:36:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.205 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+SRP2_C_12550
+/root/pbo/Posttest9.js:16
+        const cost = item.calculate();
+                          ^
+
+TypeError: Cannot read properties of undefined (reading 'calculate')
+    at PackageDeliveryPrinter.print (/root/pbo/Posttest9.js:16:27)
+    at Object.<anonymous> (/root/pbo/Posttest9.js:36:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.046 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+SRP2_C_12550
+Mencetak label pengiriman
+            Berat 10 kg
+            Jarak 10 km
+            Harga Rp.150000
+Menyimpan paket dengan id C_12550 ke dalam database pengiriman...
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+        523.5987755982989
+Volume :
+        64
+Volume :
+        65.97344572538566
+
+[Done] exited with code=0 in 0.221 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+    523.5987755982989
+Volume :
+    64
+Volume :
+    65.97344572538566
+
+[Done] exited with code=0 in 0.04 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+/root/robin.js:10
+        this.radius = radius;
+        ^
+
+ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Sphere (/root/robin.js:10:9)
+    at Object.<anonymous> (/root/robin.js:53:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.233 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+    523.5987755982989
+Volume :
+    64
+Volume :
+    65.97344572538566
+Volume :
+    NaN
+
+[Done] exited with code=0 in 0.048 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+    523.5987755982989
+Volume :
+    64
+Volume :
+    65.97344572538566
+Volume :
+    NaN
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/coba1.js"
+OCP1_C_12550
+Volume: 523.60
+Volume: 64.00
+Volume: 65.97
+Volume: 167.55
+
+[Done] exited with code=0 in 0.045 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+        523.5987755982989
+Volume :
+        64
+Volume :
+        65.97344572538566
+Volume :
+        NaN
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/robin.js"
+OCP1_C_12550
+Volume :
+        523.5987755982989
+Volume :
+        64
+Volume :
+        65.97344572538566
+Volume :
+        167.55160819145564
+
+[Done] exited with code=0 in 0.22 seconds
+
+[Running] node "/root/pbo/gd08.js"
+--- Print Bill ---
+Order ID: 1
+Customer: undefined
+Items:
+- Nasi Goreng (Qty: 2, Price: 25000)
+- Es Teh (Qty: 1, Price: 5000)
+Total (with 10% tax): 60500.00
+--- Process Order ---
+Order 1 is now Processed.
+--- Track Order ---
+Order 1 is currently Processed.
+
+[Done] exited with code=0 in 0.228 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550 
+Customer: Robin 
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: 26400
+ Status ID Pesanan 12550 sekarang adalah pending
+
+[Done] exited with code=0 in 0.225 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550 
+Customer: Robin 
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: 26400
+Memproses Pesanan dengan ID: undefined
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550 
+Customer: Robin 
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: 26400
+Memproses Pesanan dengan ID: undefined
+
+[Done] exited with code=0 in 0.049 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550 
+Customer: Robin 
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: undefined
+Status ID Pesanan 12550 sekarang adalah Pending
+
+[Done] exited with code=0 in 0.038 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550 
+Customer: Robin 
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.04 seconds
+
+[Running] node "/root/pbo/gd08.js"
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/pbo/gd08.js"
+NaN
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.042 seconds
+
+[Running] node "/root/pbo/gd08.js"
+____________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.043 seconds
+
+[Running] node "/root/pbo/gd08.js"
+________________________________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.061 seconds
+
+[Running] node "/root/pbo/gd08.js"
+______________________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/gd08.js"
+______________________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+Status ID Pesanan 12550 sekarang adalah Pending
+______________________________
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/pbo/gd08.js"
+______________________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+______________________________
+Status ID Pesanan 12550 sekarang adalah Pending
+Memproses Pesanan dengan ID: 12550
+Status ID Pesanan 12550 sekarang adalah Processed
+
+[Done] exited with code=0 in 0.046 seconds
+
+[Running] node "/root/pbo/gd08.js"
+______________________________
+ID Pesanan: 12550
+Customer: Robin
+Kopi Susu - Jumlah: 2 - Harga: 10000
+Kue Lapis - Jumlah: 1 - Harga: 4000
+Total Harga setelah Ppn: Rp. 26400
+______________________________
+Status ID Pesanan 12550 sekarang adalah Pending
+______________________________
+Memproses Pesanan dengan ID: 12550
+______________________________
+Status ID Pesanan 12550 sekarang adalah Processed
+______________________________
+
+[Done] exited with code=0 in 0.045 seconds
+

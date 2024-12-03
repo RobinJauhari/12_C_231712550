@@ -1,0 +1,761 @@
+[Running] node "/root/pbo/gd12.js"
+[LOG]: Aplikasi dimulai
+[LOG]: Pengguna login
+true
+[Function: getLogs]
+
+[Done] exited with code=0 in 0.191 seconds
+
+[Running] node "/root/pbo/gd12.js"
+true
+[Function: getLogs]
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/gd12.js"
+true
+[ 'Aplikasi dimulai', 'Pengguna login' ]
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/gd12.js"
+true
+[ 'Aplikasi dimulai', 'Pengguna login' ]
+
+[Done] exited with code=0 in 0.186 seconds
+
+[Running] node "/root/coba1.js"
+/root/coba1.js:13
+        this.devices.forEach (device => device.updateTemperature(temp));
+                                               ^
+
+TypeError: device.updateTemperature is not a function
+    at /root/coba1.js:13:48
+    at Array.forEach (<anonymous>)
+    at WeatherStation.updateTemperature (/root/coba1.js:13:22)
+    at Object.<anonymous> (/root/coba1.js:33:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] node "/root/coba1.js"
+/root/coba1.js:13
+        this.devices.forEach (device => device.perbaruisuhu(temp));
+                                               ^
+
+TypeError: device.perbaruisuhu is not a function
+    at /root/coba1.js:13:48
+    at Array.forEach (<anonymous>)
+    at WeatherStation.updateTemperature (/root/coba1.js:13:22)
+    at Object.<anonymous> (/root/coba1.js:33:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.175 seconds
+
+[Running] node "/root/coba1.js"
+Phone menerima suhu baru: 25
+Tablet menerima suhu baru: 25
+Tablet menerima suhu baru: 30
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/coba1.js"
+Phone menerima suhu baru: 25
+Tablet menerima suhu baru: 25
+Tablet menerima suhu baru: 30
+
+[Done] exited with code=0 in 0.178 seconds
+
+[Running] node "/root/coba1.js"
+/root/coba1.js:39
+                throw new Error("Makanan tidak valid");       
+                ^
+
+Error: Makanan tidak valid
+    at FoodFactory.createFood (/root/coba1.js:39:23)
+    at Object.<anonymous> (/root/coba1.js:45:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.176 seconds
+
+[Running] node "/root/coba1.js"
+/root/coba1.js:39
+                throw new Error("Invalid food type");       
+                ^
+
+Error: Invalid food type
+    at FoodFactory.createFood (/root/coba1.js:39:23)
+    at Object.<anonymous> (/root/coba1.js:45:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.026 seconds
+
+[Running] node "/root/coba1.js"
+Pizza disajikan dengan saus tomat.
+Burger disajikan dengan kentang goreng.
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/coba1.js"
+Pizza disajikan dengan saus tomat.
+Burger disajikan dengan kentang goreng.
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/gd12.js"
+Connected to MySQL database at localhost
+Connected to PostgreSQL database at 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.257 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL at localhost...
+Connecting to PostgreSQL at 127.0.0.1...
+[
+  { type: 'MySQL', host: 'localhost', connect: [Function: connect] },
+  {
+    type: 'PostgreSQL',
+    host: '127.0.0.1',
+    connect: [Function: connect]
+  }
+]
+
+[Done] exited with code=0 in 0.199 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL at localhost...
+Connecting to PostgreSQL at 127.0.0.1...
+[
+  { type: 'MySQL', host: 'localhost', connect: [Function: connect] },
+  {
+    type: 'PostgreSQL',
+    host: '127.0.0.1',
+    connect: [Function: connect]
+  }
+]
+
+[Done] exited with code=0 in 0.234 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL database at localhost
+Connecting to PostgreSQL database at 127.0.0.1
+[
+  MySQLDatabase { type: 'MySQL', host: 'localhost' },
+  PostgreSQLDatabase { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.181 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Terhubung ke database MySQL di localhost
+Terhubung ke database PostgreSQL di 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.175 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Terhubung ke database MySQL di localhost
+Terhubung ke database PostgreSQL di 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL to localhost
+Connecting to PostgreSQL to 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+/root/pbo/UGD1.js:48
+                return new MySQLDatabase(host);
+                ^
+
+ReferenceError: MySQLDatabase is not defined
+    at DatabaseFactory.createDatabase (/root/pbo/UGD1.js:48:17)
+    at ConnectionManager.createConnection (/root/pbo/UGD1.js:15:36)
+    at Object.<anonymous> (/root/pbo/UGD1.js:58:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.184 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL to localhost
+Connecting to PostgreSQL to 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL to localhost
+Connecting to PostgreSQL to 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/UGD1.js"
+Connecting to MySQL to localhost
+Connecting to PostgreSQL to 127.0.0.1
+[
+  MySQL { type: 'MySQL', host: 'localhost' },
+  PostgreSQL { type: 'PostgreSQL', host: '127.0.0.1' }
+]
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+/root/pbo/UGD_2.js:12
+                throw new Error('Tipe pesanan tidak valid');
+                ^
+
+Error: Tipe pesanan tidak valid
+    at OrderFactory.createOrder (/root/pbo/UGD_2.js:12:23)
+    at Object.<anonymous> (/root/pbo/UGD_2.js:90:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.169 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+/root/pbo/UGD_2.js:12
+                throw new Error('Tipe pesanan tidak valid');
+                ^
+
+Error: Tipe pesanan tidak valid
+    at OrderFactory.createOrder (/root/pbo/UGD_2.js:12:23)
+    at Object.<anonymous> (/root/pbo/UGD_2.js:90:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+/root/pbo/UGD_2.js:12
+                throw new Error('Tipe pesanan tidak valid');
+                ^
+
+Error: Tipe pesanan tidak valid
+    at OrderFactory.createOrder (/root/pbo/UGD_2.js:12:23)
+    at Object.<anonymous> (/root/pbo/UGD_2.js:90:24)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+Chef (Robin)
+ received new order: {"type":"DineIn","orderId":"001","details":{"table":5,"items":["Pasta","Salad"]}}
+Chasier Lisa
+ received new order: {"type":"DineIn","orderId":"001","details":{"table":5,"items":["Pasta","Salad"]}}
+Chef (Robin)
+ received new order: {"type":"TakeAway","orderId":"002","details":{"customerName":"John","items":["Burger"]}}
+Chasier Lisa
+ received new order: {"type":"TakeAway","orderId":"002","details":{"customerName":"John","items":["Burger"]}}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: [Array] }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: [Array] }
+  }
+]
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.033 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+Chef (Robin)
+ received new order: {"type":"DineIn","orderId":"001","details":{"table":5,"items":["Pasta","Salad"]}}
+Chasier Lisa
+ received new order: {"type":"DineIn","orderId":"001","details":{"table":5,"items":["Pasta","Salad"]}}
+Chef (Robin)
+ received new order: {"type":"TakeAway","orderId":"002","details":{"customerName":"John","items":["Burger"]}}
+Chasier Lisa
+ received new order: {"type":"TakeAway","orderId":"002","details":{"customerName":"John","items":["Burger"]}}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: [Array] }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: [Array] }
+  }
+]
+
+[Done] exited with code=0 in 0.036 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "DineIn",
+  "orderId": "001",
+  "details": {
+    "table": 5,
+    "items": "Pasta, Salad"
+  }
+}
+Chef (Robin)
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+Chasier Lisa
+ received new order: {
+  "type": "TakeAway",
+  "orderId": "002",
+  "details": {
+    "customerName": "John",
+    "items": "Burger"
+  }
+}
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chasier Lisa
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chef (Robin)
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+Chasier Lisa
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Chef (Robin)
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chasier Lisa
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chef (Robin)
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+Chasier Lisa
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.18 seconds
+
+[Running] node "/root/pbo/UGD_2.js"
+Chef (Robin)
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chasier Lisa
+ menerima order: 001 (DineIn)
+Order Detail: { table: 5, items: 'Pasta, Salad' }
+Chef (Robin)
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+Chasier Lisa
+ menerima order: 002 (TakeAway)
+Order Detail: { customerName: 'John', items: 'Burger' }
+[
+  DineIn {
+    type: 'DineIn',
+    orderId: '001',
+    details: { table: 5, items: 'Pasta, Salad' }
+  },
+  TakeAway {
+    type: 'TakeAway',
+    orderId: '002',
+    details: { customerName: 'John', items: 'Burger' }
+  }
+]
+
+[Done] exited with code=0 in 0.032 seconds
+

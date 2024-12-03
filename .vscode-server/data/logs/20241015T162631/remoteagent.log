@@ -1,0 +1,11 @@
+2024-10-15 16:26:31.883 [info] 
+
+
+
+
+2024-10-15 16:26:31.895 [info] Extension host agent started.
+2024-10-15 16:26:32.048 [info] [127.0.0.1][89647c49][ManagementConnection] New connection established.
+2024-10-15 16:26:32.367 [info] [127.0.0.1][b64ca302][ExtensionHostConnection] New connection established.
+2024-10-15 16:26:32.522 [info] [127.0.0.1][b64ca302][ExtensionHostConnection] <1103> Launched Extension Host Process.
+2024-10-15 19:10:01.278 [info] [127.0.0.1][89647c49][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-15 19:10:01.423 [info] [127.0.0.1][b64ca302][ExtensionHostConnection] <1103> Extension Host Process exited with code: 0, signal: null.

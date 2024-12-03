@@ -1,0 +1,121 @@
+[Running] node "/root/pbo/gd6.js"
+Anita meminjam buku "Harry Potter".
+Budi meminjam buku "Pangeran Kecil" pada tanggal 10 Agustus
+
+[Done] exited with code=0 in 0.213 seconds
+
+[Running] node "/root/pbo/gd6.js"
+Anita meminjam buku "Harry Potter".
+
+[Done] exited with code=0 in 0.039 seconds
+
+[Running] node "/root/pbo/gd6.js"
+Anita meminjam buku "Harry Potter".
+Budi meminjam buku "Pangeran Kecil" pada tanggal 10 Agustus pada pukul 10 pagi
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/pbo/gd6.js"
+Anita meminjam buku "Harry Potter".
+Budi meminjam buku "Pangeran Kecil" pada tanggal 10 Agustus pada pukul 10 pagi
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/gd66.2.js"
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+Pelari sedang berlatih lari jarak jauh.
+Perenang sedang berlatih gaya bebas.
+
+[Done] exited with code=0 in 0.04 seconds
+
+[Running] node "/root/pbo/gd66.2.js"
+
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+Pelari sedang berlatih lari jarak jauh.
+Perenang sedang berlatih gaya bebas.
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/gd6.js"
+Anita meminjam buku "Harry Potter".
+Budi meminjam buku "Pangeran Kecil" pada tanggal 10 Agustus untuk 7 hari
+
+[Done] exited with code=0 in 0.06 seconds
+
+[Running] node "/root/pbo/tempCodeRunnerFile.js"
+Anita meminjam buku "Harry Potter".
+Budi meminjam buku "Pangeran Kecil" pada tanggal 10 Agustus untuk 7 hari 
+
+[Done] exited with code=0 in 0.036 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+/root/pbo/prktm6.js:13
+            return pinjam1(args[0]);
+            ^
+
+ReferenceError: pinjam1 is not defined
+    at Restoran.pesanMakanan (/root/pbo/prktm6.js:13:13)
+    at Object.<anonymous> (/root/pbo/prktm6.js:21:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.039 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Makanan dengan nama 'Nasi Goreng' tidak tersedia.
+/root/pbo/prktm6.js:15
+            return pesanMakanan(args[0], args[1]);
+            ^
+
+ReferenceError: pesanMakanan is not defined
+    at Restoran.pesanMakanan (/root/pbo/prktm6.js:15:13)
+    at Object.<anonymous> (/root/pbo/prktm6.js:22:10)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.037 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Makanan dengan nama 'Nasi Goreng' tidak tersedia.
+Pesanan telah diterima: 'Nasi Goreng' untuk Budi.
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Makanan dengan nama 'Nasi Goreng' tidak tersedia.
+Pesanan telah diterima: 'Nasi Goreng' untuk Budi.
+Jumlah parameter tidak valid.
+
+[Done] exited with code=0 in 0.038 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Makanan dengan nama 'Nasi Goreng' tidak tersedia.
+Pesanan telah diterima: 'Nasi Goreng' untuk Budi.
+Jumlah parameter tidak valid.
+
+[Done] exited with code=0 in 0.035 seconds
+
+[Running] node "/root/robin.js"
+Mobil bergerak di jalan
+Kereta bergerak di rel
+Pesawat terbang di udara
+
+[Done] exited with code=0 in 0.038 seconds
+

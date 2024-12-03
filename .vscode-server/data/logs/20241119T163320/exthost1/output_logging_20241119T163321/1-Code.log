@@ -1,0 +1,135 @@
+[Running] node "/root/pbo/nyoba.js"
+50
+25
+25
+
+[Done] exited with code=0 in 0.184 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+30
+20
+15
+
+[Done] exited with code=0 in 0.173 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+50
+25
+25
+30
+20
+15
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+50
+25
+25
+30
+20
+15
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+50
+25
+25
+30
+20
+15
+
+[Done] exited with code=0 in 0.181 seconds
+
+[Running] node "/root/coba1.js"
+/root/coba1.js:31
+        this.nama = nama;
+        ^
+
+ReferenceError: Must call super constructor in derived class before accessing 'this' or returning from derived constructor
+    at new Burung (/root/coba1.js:31:9)
+    at Object.<anonymous> (/root/coba1.js:71:16)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.172 seconds
+
+[Running] node "/root/coba1.js"
+Elang membuat suara!
+Elang sedang terbang!
+Harimau Sumatra membuat suara!
+Harimau Sumatra sedang berburu!
+Paus Biru membuat suara!
+Paus Biru sedang berenang!
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+/root/pbo/ugd11.js:50
+        this.paymentMethod.prosesPembayaran(amount);
+                           ^
+
+TypeError: Cannot read properties of undefined (reading 'prosesPembayaran')
+    at PaymentProcessor_2550.proses (/root/pbo/ugd11.js:50:28)
+    at Object.<anonymous> (/root/pbo/ugd11.js:58:12)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.189 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+/root/pbo/ugd11.js:50
+        this.paymentMethod.prosesPembayaran(amount);
+                           ^
+
+TypeError: Cannot read properties of undefined (reading 'prosesPembayaran')
+    at PaymentProcessor_2550.proses (/root/pbo/ugd11.js:50:28)
+    at Object.<anonymous> (/root/pbo/ugd11.js:58:12)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.183 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+Pembayaran sebesar 100 menggunakan Kartu Kredit diproses.
+Email Notifikasi: Your payment of $100 was successful.
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+Pembayaran sebesar 100 menggunakan Kartu Kredit diproses.
+Email Notifikasi: Your payment of $100 was successful.
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+Pembayaran sebesar 100 menggunakan Kartu Kredit diproses.
+Email Notifikasi: Your payment of $100 was successful.
+
+[Done] exited with code=0 in 0.284 seconds
+
+[Running] node "/root/pbo/ugd11.js"
+Pembayaran sebesar $100 menggunakan Kartu Kredit diproses.
+Email Notifikasi: Your payment of $100 was successful.
+
+[Done] exited with code=0 in 0.056 seconds
+

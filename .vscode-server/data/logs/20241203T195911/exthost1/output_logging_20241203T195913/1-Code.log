@@ -1,0 +1,11 @@
+[Running] node "/root/pbo/12_C_12550_PAGI.js"
+PENDAFTARAN MAHASISWA BARU UNIVERSITAS CENDRAWASIH
+__________________________________________________
+An error occurred: Invalid data
+An error occurred: Student is too young
+An error occurred: Invalid KTP number
+Student Robin has been successfully registered.
+Student Kay has been successfully registered.
+
+[Done] exited with code=0 in 1.051 seconds
+

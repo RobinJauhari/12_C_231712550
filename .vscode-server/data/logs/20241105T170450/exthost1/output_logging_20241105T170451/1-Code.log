@@ -1,0 +1,233 @@
+[Running] node "/root/pbo/Posttest9.js"
+[object Object] berspesialisasi [object Object] sedang menagani pasien 10:00 Pagi, 5 Juni 2024 berusia undefined pada pukul undefined
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/robin.js"
+Dr. Budi berspesialisasi Kardiologi sedang menangani pasien Andi berusia 45 tahun pada 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.195 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+[object Object] berspesialisasi undefined sedang menagani pasien [object Object] berusia undefined pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.045 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menagani pasien Andi berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.199 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+[object Object] berspesialisasi undefined sedang menagani pasien Andi berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.193 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menagani pasien Andi berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menagani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.038 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menagani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.219 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+/root/pbo/Posttest9.js:17
+        this.dokter = dokter;
+                      ^
+
+ReferenceError: dokter is not defined
+    at new JadwalKonsultasi (/root/pbo/Posttest9.js:17:23)
+    at Object.<anonymous> (/root/pbo/Posttest9.js:29:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.037 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menagani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.033 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi undefined sedang menagani pasien bernama [object Object] yang berusia undefined pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.034 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menangani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.238 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menangani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.034 seconds
+
+[Running] node "/root/pbo/Posttest9.js"
+Dr. Budi berspesialisasi Kardiologi sedang menangani pasien bernama Andi yang berusia 45 pada pukul 10:00 Pagi, 5 Juni 2024
+
+[Done] exited with code=0 in 0.036 seconds
+
+[Running] node "/root/robin.js"
+/root/robin.js:43
+guru1.tampilkanDaftarGuru();
+      ^
+
+TypeError: guru1.tampilkanDaftarGuru is not a function
+    at Object.<anonymous> (/root/robin.js:43:7)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.034 seconds
+
+[Running] node "/root/robin.js"
+Sekolah: SMA 4
+
+[Done] exited with code=0 in 0.073 seconds
+
+[Running] node "/root/robin.js"
+Sekolah: SMA 4
+
+[Done] exited with code=0 in 0.036 seconds
+
+[Running] node "/root/robin.js"
+/root/robin.js:13
+        this.mataPelajaran.push(mataPelajaran);
+                           ^
+
+TypeError: Cannot read properties of undefined (reading 'push')
+    at Guru.tambahkanMataPelajaran (/root/robin.js:13:28)
+    at Object.<anonymous> (/root/robin.js:47:7)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.198 seconds
+
+[Running] node "/root/robin.js"
+Sekolah: SMA 4
+Guru: Pak Erlan
+Mata Pelajaran yang diajarkan:
+- IPA
+- IPS
+Guru: Bu yeni
+Mata Pelajaran yang diajarkan:
+- BINDO
+- BIOLOGI
+
+[Done] exited with code=0 in 0.185 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Spesifikasi Komputer:
+Merk: Asus
+Memori:
+/root/pbo/prktm6.js:17
+            console.log(`- Kapasitas: ${this.memori.kapasitas}`);
+                                                    ^
+
+TypeError: Cannot read properties of undefined (reading 'kapasitas')
+    at Komputer.tampilkanSpesifikasi (/root/pbo/prktm6.js:17:53)
+    at Object.<anonymous> (/root/pbo/prktm6.js:24:11)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[Done] exited with code=1 in 0.202 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Spesifikasi Komputer:
+Merk: Asus
+Memori:
+- Kapasitas: undefined
+- Jenis: DDR4
+
+[Done] exited with code=0 in 0.199 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Spesifikasi Komputer:
+Merk: Asus
+Memori:
+- Kapasitas: 16GB
+- Jenis: DDR4
+
+[Done] exited with code=0 in 0.041 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Spesifikasi Komputer:
+Merk: Lenovo
+Memori:
+- Kapasitas: 16GB
+- Jenis: DDR7
+
+[Done] exited with code=0 in 0.037 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Komputer Merk: Lenovo
+Jenis Memori:  DDR7, Kapasitas: 16GB
+
+[Done] exited with code=0 in 0.207 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Komputer Merk: Dell
+Jenis Memori:  DDR4, Kapasitas: 16GB
+
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Komputer Merk: Dell
+Jenis Memori: DDR4, Kapasitas: 16GB
+
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] node "/root/pbo/prktm6.js"
+Komputer Merk: Dell
+Jenis Memori: DDR4, Kapasitas: 16GB
+
+[Done] exited with code=0 in 0.206 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+Keliling Lingkaran : 43.96
+Luas Lingkaran : 153.86
+Luas Permukaan Tabung : 747.32
+Volume Tabung : 1538.6000000000001
+
+[Done] exited with code=0 in 0.038 seconds
+
+[Running] node "/root/pbo/nyoba.js"
+Keliling Lingkaran : 43.96
+Luas Lingkaran : 153.86
+Luas Permukaan Tabung : 747.32
+Volume Tabung : 1538.6000000000001
+
+[Done] exited with code=0 in 0.196 seconds
+

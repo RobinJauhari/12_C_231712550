@@ -1,0 +1,5 @@
+class Atlet {
+    panggilLatihanAtlet() {
+        
+    }
+}
