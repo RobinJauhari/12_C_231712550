@@ -1,0 +1,5 @@
+1. Ketika terjadi kesalahan yang terjadi selama program atau system di eksekusi, exception handling akan menangani kesalahan tersebut agar mencegah program atau sitem tidak berhenti atau mati secara tiba-tiba. exception handling ini berisi informasi tentang keselahan yang terjadi, dan akan ditangkap oleh bagian lain dari program yang disebut handler. jika tidak ada exception handling yang menangani kesalahan tersebut, program atau sistem akan berhenti.
+2.  Try-catch berfungsi untuk mengeksekusi program tanpa menghentikan program meskipun terjadi error. Lalu, finally berfungsi untuk memastikan pembersihan pada program tetap dilakukan meskipun terjadi error.
+3. Matkul gampang.
+
+Link GitHub : https://github.com/RobinJauhari/12_C_231712550.git
